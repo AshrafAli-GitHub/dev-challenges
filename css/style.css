@@ -10,3 +10,10 @@ h1{
     color: #fff;
     background-color: #281B2D;
 }
+
+.shead{
+    font-size: 48px;
+    color: #fcd801;
+    background-color: #281b2d;
+    border-bottom: 5px solid #00c54c;
+}
